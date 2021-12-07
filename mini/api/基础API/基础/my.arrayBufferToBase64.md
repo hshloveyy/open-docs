@@ -23,4 +23,4 @@ const base64 = my.arrayBufferToBase64(arrayBuffer)
 ### 返回值
 | **属性** | **类型** | **描述** |
 | --- | --- | --- |
-| Base64` 字符串 | String |  |
+| `Base64` 字符串 | String |  |
